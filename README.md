@@ -9,8 +9,8 @@ The main goal of this project was to understand the results of an A/B test run b
 
 ## Statistical Analysis
 
-    Bootstrapping sampling distributions and p-value calculations
-    Z-core tests
-    Logistic regression
-    Multiple linear regression modelling to assess for interactions of independent variables
+- Bootstrapping sampling distributions and p-value calculations
+- Z-core tests
+- Logistic regression
+- Multiple linear regression modelling to assess for interactions of independent variables
 
